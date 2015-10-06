@@ -1,6 +1,6 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Bangers'; /* 폰트 변경 */
+    font-family: 'Lobster', cursive; /* 폰트 변경 */
 }
 
 .page-header {
@@ -20,12 +20,12 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Bangers', cursive; /* 폰트 변경 */
+    font-family: 'Lobster'; /* 폰트 변경 */
 }
 
 .date {
     float: right;
-    color: #828282;
+    color: #076047; /* 타임스탬프 색상 녹색으로 변경 */
 }
 
 .save {
